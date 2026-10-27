@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jam-conformance/.github/HEAD/profile/jam-logo.png" alt="JAM logo" width="160">
-</p>
-
 # JAM Conformance
 
 Tools and test material to check implementations of the [JAM protocol](https://graypaper.com)
